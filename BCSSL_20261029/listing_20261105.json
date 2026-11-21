@@ -1,0 +1,21 @@
+{
+ "issue_id": "BCSSL_20261029",
+ "listing_date": "2026-11-05",
+ "session_date": "2026-11-05",
+ "match": "symbol",
+ "symbol": "BCSSL",
+ "series": "BE",
+ "isin": "INE0XFY01011",
+ "open": 91.0,
+ "high": 95.55,
+ "low": 91.0,
+ "close": 94.81,
+ "prev_close": 82.0,
+ "price_band": [
+  78.0,
+  82.0
+ ],
+ "bhavcopy": "BhavCopy_NSE_CM_0_0_0_20261105_F_0000.csv.zip",
+ "bhavcopy_sha256": "3b0abdcb89fdc7a7fb57a26b38c01b0df555f9a1b2463b9be5b55eebc22088e2",
+ "recorded_at": "2026-11-21T18:49:49.093242+05:30"
+}
