@@ -1,0 +1,1 @@
+{"time":"2026-11-27T19:30:48.426+05:30","exit_code":1,"command":["C:\\Users\\Advik\\AppData\\Roaming\\uv\\python\\cpython-3.12-windows-x86_64-none\\python.exe","-s","scripts/venv_run.py","scripts/record_ipo_live.py","--scheduled"],"stderr":"","start_error":null}
