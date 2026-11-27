@@ -1,0 +1,21 @@
+{
+ "issue_id": "MAHACOAL_20261119",
+ "listing_date": "2026-11-27",
+ "session_date": "2026-11-27",
+ "match": "symbol",
+ "symbol": "MAHACOAL",
+ "series": "EQ",
+ "isin": "INE03K401026",
+ "open": 134.0,
+ "high": 137.89,
+ "low": 130.75,
+ "close": 132.5,
+ "prev_close": 136.0,
+ "price_band": [
+  129.0,
+  136.0
+ ],
+ "bhavcopy": "BhavCopy_NSE_CM_0_0_0_20261127_F_0000.csv.zip",
+ "bhavcopy_sha256": "bcccf336c474fc1ba098a210dc13eba11a2d20f2b5cbc99ec1720ca4dddf7124",
+ "recorded_at": "2026-11-27T19:30:36.489013+05:30"
+}
